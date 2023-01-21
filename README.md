@@ -8,6 +8,10 @@ TODO:
 - PostgreSQL for database.
 - Containerize everything such that
 `docker compose up ...` is only thing users need.
+- Some kind of self off functionality? It's because
+it doesn't make sense to be on the whole time.
+Maybe one only every 12 hours? For specific amount of time?
+Only when user runs a command just like `jupyter`.
 - Insert example screenshot at the top, after
 all development is done.
 -->
