@@ -23,7 +23,9 @@ This program aims to give you a peace of mind. It allows you to be among the
 first ones to apply. It will notify you that the position has been posted on your
 dream company's careers page. It will not, however, do anything else.
 Obviously, you still have to fill in all applications stuff,
-write a good cover letter, etc. Good luck on your internship hunt 😎
+write a good cover letter, etc.
+
+Good luck on your internship hunt 😎
 
 <br>
 
