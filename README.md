@@ -1,6 +1,17 @@
 <br>
 <br>
 
+<!--
+TODO:
+- node.js, React, and Next.js for web interface probably.
+- Python for scraping possibly.
+- PostgreSQL for database.
+- Containerize everything such that
+`docker compose up ...` is only thing users need.
+- Insert example screenshot at the top, after
+all development is done.
+-->
+
 ### What is this repository for?
 Do you want to apply to your dream company's internship position
 as soon as they post it on their careers page?
